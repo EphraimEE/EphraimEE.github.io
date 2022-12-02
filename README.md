@@ -5,14 +5,14 @@
         <title>Product Page</title>
         <style>
             html {
-    min-height: 420px;
+    min-height: 750px;
     max-height: 800px;
     min-width: 750px;
     max-width: 1440px;
     position: absolute;
 }
 body {
-    height: 10%%;
+    height: 10%;
     width: 50%;
     background-color: #F3EAE3;
 }
