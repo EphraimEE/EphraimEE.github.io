@@ -6,11 +6,11 @@ EphraimEE.github.io
         <title>Product Page</title>
         <style>
             html {
-    min-height: 750px;
-    max-height: 800px;
-    min-width: 750px;
-    max-width: 1660px;
-    position: absolute;
+            min-height: 750px;
+            max-height: 800px;
+            min-width: 750px;
+            max-width: 1660px;
+            position: absolute;
             }
             body {
             height: 100%;
