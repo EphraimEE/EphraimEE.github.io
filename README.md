@@ -19,8 +19,8 @@ body {
     background-color: #F3EAE3;
 }
 main {
-    width: 35%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     background-color: #FFFFFF;
     display: flex;
     margin-top: 10%;
