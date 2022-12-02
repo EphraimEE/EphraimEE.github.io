@@ -22,9 +22,7 @@ main {
     height: 100%;
     background-color: #FFFFFF;
     display: flex;
-    margin-top: 10%;
-    margin-left: 25%;
-    margin-right: 25%;
+     margin: auto;
     border-radius: 10px;
     gap: 20px;
 }
