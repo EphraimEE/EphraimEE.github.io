@@ -13,7 +13,7 @@
 }
 body {
     height: 10%;
-    width: 50%;
+    width: 1440px;
     background-color: #F3EAE3;
 }
 main {
