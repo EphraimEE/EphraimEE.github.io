@@ -18,8 +18,8 @@ body {
     background-color: #F3EAE3;
 }
 main {
-    width: 50%;
-    height: 10%;
+    width: 20%;
+    height: 50%;
     background-color: #FFFFFF;
     display: flex;
     margin-top: 10%;
