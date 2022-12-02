@@ -3,8 +3,14 @@ EphraimEE.github.io
     <head>
         <meta name="viewport">
         <meta charset="utf-8" content="width=device-width, initial-scale=1.0">
-        <title>Product Page</title>
+        <title> Product Page </title>
         <style>
+ html {
+    min-height: 750px;
+    max-height: 800px;
+    min-width: 750px;
+    max-width: 1660px;
+}
 body {
     height: 720px;
     width: 1440px;
