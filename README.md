@@ -13,7 +13,7 @@ EphraimEE.github.io
     position: absolute;
 }
 body {
-    height: 100%;
+    height: 50%;
     width: 1660px;
     background-color: #F3EAE3;
 }
