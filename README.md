@@ -46,7 +46,13 @@ EphraimEE.github.io
             border-top-left-radius: 10px;
             border-bottom-left-radius: 10px;
             }
-            h1{color: blue; font-size: 9px; font-family: sans-serif; letter-spacing: 2px; margin-top: 20px; font-weight: 200;}
+            h1{
+            font-size: 9px;
+            font-family: sans-serif;
+            letter-spacing: 2px;
+            margin-top: 20px;
+            font-weight: 200;
+            }
             p {
             font-size: 15px;
             line-height: 20px;
