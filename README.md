@@ -7,7 +7,7 @@
             html {
     min-height: 420px;
     max-height: 800px;
-    min-width: 420px;
+    min-width: 750px;
     max-width: 1440px;
     position: absolute;
 }
