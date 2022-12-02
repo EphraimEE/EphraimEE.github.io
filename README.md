@@ -19,7 +19,7 @@ body {
     background-color: #F3EAE3;
 }
 main {
-    width: 35%;
+    width: 50%;
     height: 100%;
     background-color: #FFFFFF;
     display: flex;
