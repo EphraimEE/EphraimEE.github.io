@@ -5,15 +5,8 @@ EphraimEE.github.io
         <meta charset="utf-8" content="width=device-width, initial-scale=1.0">
         <title>Product Page</title>
         <style>
-            html {
-    min-height: 750px;
-    max-height: 800px;
-    min-width: 750px;
-    max-width: 1660px;
-    position: absolute;
-}
 body {
-    height: 50%;
+    height: 720px;
     width: 1440px;
     background-color: #F3EAE3;
 }
