@@ -14,7 +14,7 @@ EphraimEE.github.io
 }
 body {
     height: 100%;
-    width: 1440px;
+    width: 1660px;
     background-color: #F3EAE3;
 }
 main {
