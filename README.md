@@ -10,6 +10,7 @@ EphraimEE.github.io
     max-height: 800px;
     min-width: 750px;
     max-width: 1660px;
+    position: absolute;
 }
 body {
     height: 720px;
