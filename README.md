@@ -12,7 +12,7 @@
     position: absolute;
 }
 body {
-    height: 10%;
+    height: 100%;
     width: 1440px;
     background-color: #F3EAE3;
 }
