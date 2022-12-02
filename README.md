@@ -1,4 +1,3 @@
-# EphraimEE.github.io
 <html>
     <head>
         <meta name="viewport">
@@ -6,10 +5,10 @@
         <title>Product Page</title>
         <style>
             html {
-    min-height: 750px;
+    min-height: 420px;
     max-height: 800px;
-    min-width: 750px;
-    max-width: 1660px;
+    min-width: 420px;
+    max-width: 1440px;
     position: absolute;
 }
 body {
