@@ -50,7 +50,7 @@ img {
     border-bottom-left-radius: 10px;
 }
 h1 {
-    font-size: 9px;
+    font-size: 2px;
     font-family: sans-serif;
     letter-spacing: 2px;
     margin-top: 20px;
