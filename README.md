@@ -81,7 +81,7 @@ p {
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcsvrNsMiJy0mpk63LMZUio-QqZg0cwvWe0hX8vR0pZu5pdsbw" alt="perfume">
             </section>
             <section class="perfume">
-                <h1>PERFUME</h1>
+                <h1 style="font-size: 9px;">PERFUME</h1>
                 <h2>Gabrielle Essence Eau De Parfum</h2>
                 <article>
                     <p class="intro">A floral, solar and voluptuos interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL</p>
