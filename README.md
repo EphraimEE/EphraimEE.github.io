@@ -14,11 +14,11 @@ EphraimEE.github.io
 }
 body {
     height: 50%;
-    width: 100%;
+    width: 1440px;
     background-color: #F3EAE3;
 }
 main {
-    width: 35%;
+    width: 1440px;
     height: 100%;
     background-color: #FFFFFF;
     display: flex;
