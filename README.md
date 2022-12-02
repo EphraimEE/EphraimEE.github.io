@@ -13,13 +13,13 @@
     position: absolute;
 }
 body {
-    height: 50%;
-    width: 1440px;
+    height: 10%%;
+    width: 50%;
     background-color: #F3EAE3;
 }
 main {
-    width: 50%;
-    height: 50%;
+    width: 35%;
+    height: 100%;
     background-color: #FFFFFF;
     display: flex;
     margin-top: 10%;
