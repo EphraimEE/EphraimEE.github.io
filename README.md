@@ -18,7 +18,7 @@
             }
             main {
             width: 50%;
-            height: 60%;
+            height: 50%;
             background-color: #FFFFFF;
             display: flex;
             margin: auto;
