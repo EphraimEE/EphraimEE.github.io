@@ -2,6 +2,7 @@ body {
     height: 100%;
     width: 1440px;
     background-color: #F3EAE3;
+    margin: auto;
 }
 main {
     width: 500px;
