@@ -3,72 +3,7 @@
         <meta name="viewport">
         <meta charset="utf-8" content="width=device-width, initial-scale=1.0">
         <title>Product Page</title>
-        <style>
-            html {
-            min-height: 750px;
-            max-height: 800px;
-            min-width: 750px;
-            max-width: 1660px;
-            position: absolute;
-            }
-            body {
-            height: 100%;
-            width: 1440px;
-            background-color: #F3EAE3;
-            }
-            main {
-            width: 50%;
-            height: 50%;
-            background-color: #FFFFFF;
-            display: flex;
-            margin: auto;
-            border-radius: 10px;
-            gap: 20px;
-            }
-            button {
-            width: 180px;
-            border-radius: 5px;
-            height: 30px;
-            background-color: #3D8169;
-            margin: 10px;
-            color: #FFFFFF;
-            }
-            .image {
-            width: 50%;
-            }
-            .perfume {
-            width: 30%;
-            }
-            img {
-            height: 100%;
-            width: 100%;
-            border-top-left-radius: 10px;
-            border-bottom-left-radius: 10px;
-            }
-            h1{
-            font-size: 9px;
-            font-family: sans-serif;
-            letter-spacing: 2px;
-            margin-top: 20px;
-            font-weight: 200;
-            }
-            p {
-            font-size: 15px;
-            line-height: 20px;
-            }
-            .price {
-            margin: 10px;
-            display: inline-block;
-            }
-            .price:nth-of-type(1) {
-            font-size: 20px;
-            color: #3D8169;
-            font-weight: 900;
-            }
-            .price:nth-of-type(2) {
-            font-size: 10px;
-            }
-        </style>
+        <link href="styles.css" rel="stylesheet">
     </head>
     <body>
         <main class="main">
