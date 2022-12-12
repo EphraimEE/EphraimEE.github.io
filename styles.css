@@ -1,11 +1,9 @@
 body {
-    height: 100%;
-    width: 1440px;
     background-color: #F3EAE3;
-    margin: auto;
+    
 }
 main {
-    width: 500px;
+    width: 50%;
     height: 50%;
     background-color: #FFFFFF;
     display: flex;
